@@ -1,7 +1,7 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <OutputType>DLL</OutputType>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>Module12_OOP_Fundamentals_and_Design_Principles</RootNamespace>
   </PropertyGroup>

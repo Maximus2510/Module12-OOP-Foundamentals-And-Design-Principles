@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Module12_OOP_Fundamentals_and_Design_Principles
+﻿namespace Module12_OOP_Fundamentals_and_Design_Principles
 {
     public class PatentCard : DocumentCard
     {
